@@ -1,0 +1,19 @@
+# TugasModulPHP
+HASIL SCREENSHOT
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/11.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/12.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/13.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/14.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/151.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/152.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/21.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/22.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/23.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/24.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/25.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/26.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/27.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/28.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/29.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP/blob/master/hasil/210.PNG)
+
